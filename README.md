@@ -1,7 +1,7 @@
 # Releasing soon
 
 **Deep Micro-Dictionary Learning and Coding Network (WACV 2019)** 
-by Hao Tang, Heng Wei, Wei Xiao, Wei Wang, Dan Xu, Yan Yan, Nicu Sebe.
+by Hao Tang, Heng Wei, Wei Xiao, Wei Wang, Dan Xu, Yan Yan, Nicu Sebe. [Arxiv Paper](https://arxiv.org/abs/1809.04185)
 
 
 
