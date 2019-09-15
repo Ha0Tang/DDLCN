@@ -3,7 +3,7 @@ clear all; close all;clc
 Number_select = 3;
 
 address1 = './step1_sift_extract/sift_feature/mnist';
-address2 = './step2_dictionary_trainning/rand_sect';
+address2 = './step2_dic1_trainning/rand_sect';
 if ~isdir(address2)
     mkdir(address2)
 end
