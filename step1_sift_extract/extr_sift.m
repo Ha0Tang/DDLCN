@@ -1,6 +1,6 @@
 function extr_sift(img_dir, data_dir)
 
-addpath('sift');
+addpath('sift_function');
 
 gridSpacing = 6;
 patchSize = 16;
